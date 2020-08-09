@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWorkAndroid</string>
+    <string name="name">Гиктек</string>
+    <string name="hello">Добро пожаловать в</string>
+    <string name="login">Введите Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+</resources>
